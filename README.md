@@ -1,4 +1,4 @@
-# Around_Project
+# Around
 1. Designed and implemented a geo-based social network web application with React JS
 2. Built a scalable web service in Go language to handle posts message, pictures and deployed to Google Cloud (GAE, GCS) for better scaling
 3. Utilized ElasticSearch (GCE) to provide geo-location based search functions such that users can search nearby posts within a distance
